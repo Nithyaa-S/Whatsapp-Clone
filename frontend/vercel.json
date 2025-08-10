@@ -13,8 +13,14 @@
       "dest": "https://whatsapp-clone-1-l5rq.onrender.com/api/$1"
     },
     {
+      "handle": "filesystem"
+    },
+    {
       "src": "/(.*)",
       "dest": "/index.html"
     }
-  ]
+  ],
+  "env": {
+    "VITE_API_URL": "https://whatsapp-clone-1-l5rq.onrender.com"
+  }
 }
