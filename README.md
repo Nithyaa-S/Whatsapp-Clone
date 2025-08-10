@@ -68,10 +68,10 @@ A WhatsApp Web-like chat interface built with React, Node.js, and MongoDB Atlas.
 
 ## Screenshots
 
-![Chat UI Screenshot](assets/screenshot-1.png)  
+![Chat UI Screenshot](frontend/assets/Screenshot%202025-08-11%20002015.png)  
 *Chat interface displaying a conversation.*
 
-![Chat List Screenshot](assets/screenshot-2.png)  
+![Chat List Screenshot](frontend/assets/Screenshot%202025-08-11%20002128.png)  
 *Chat list and responsive layout.*
 
 ---
