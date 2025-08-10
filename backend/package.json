@@ -2,6 +2,7 @@
   "name": "whatsapp-clone-backend",
   "version": "1.0.0",
   "description": "WhatsApp Clone Backend API for Full Stack Developer Evaluation",
+  "type": "module",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -12,7 +13,6 @@
   "keywords": ["whatsapp", "clone", "api", "webhook", "mongodb"],
   "author": "Your Name",
   "license": "ISC",
-  "type": "commonjs",
   "dependencies": {
     "body-parser": "^2.2.0",
     "cors": "^2.8.5",
